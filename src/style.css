@@ -1,0 +1,28 @@
+/* body{ */
+    /* background-color: darkgray; */
+    /* font-size: 14px;
+    background-image: url('https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800');
+}
+h1,h2,h3,h4,h5,h6{
+    color: antiquewhite;
+} */
+
+body{
+    background-color: darkgrey;
+    font-size: 20px;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+    color: black;
+}
+h2{
+    font-weight: 700;
+    align-items: center;
+    font-size: 40px;
+    color: black;
+
+}
+input{
+    padding: 9px;
+    margin: 10px;
+}
